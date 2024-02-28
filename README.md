@@ -1,6 +1,6 @@
 # Daily COVID-19 Cases and Deaths Visualization
 
-This project fetches the latest COVID-19 data from Our World in Data, filters the data for the last 30 days, and creates a line chart visualization using Altair.
+This project fetches the latest COVID-19 data from Our World in Data, filters the data for the last 50 days, and creates a line chart visualization using Altair.
 
 ## Installation
 
